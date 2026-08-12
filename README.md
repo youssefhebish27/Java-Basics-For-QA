@@ -32,4 +32,4 @@ Success Rate: 66%
 =================================
 ```
 ## 👨‍💻 About Me
-I love Software Testing. I am currently learning Java to improve my skills in Test Automation.
+I am currently learning Java to improve my skills in Test Automation.
