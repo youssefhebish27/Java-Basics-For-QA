@@ -31,5 +31,5 @@ Total Tests Passed: 2
 Success Rate: 66%
 =================================
 ```
-👨‍💻 About Me
-I am passionate about Software Testing and currently learning Java to level up my skills in Test Automation.
+## 👨‍💻 About Me
+I love Software Testing. I am currently learning Java to improve my skills in Test Automation.
